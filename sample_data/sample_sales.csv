@@ -1,0 +1,13 @@
+Order Date,Product,Category,City,Region,Customer ID,Sales,Profit,Quantity
+2025-01-04,Northstar Wireless Mouse,Accessories,Boston,East,C001,240,72,12
+2025-01-18,Horizon Dock,Accessories,Austin,South,C002,380,95,10
+2025-01-22,Northstar Keyboard,Accessories,Seattle,West,C003,510,153,15
+2025-02-03,Northstar Wireless Mouse,Accessories,Boston,East,C004,300,90,15
+2025-02-11,Horizon Dock,Accessories,Austin,South,C005,410,102,11
+2025-02-20,Crest 27-inch Monitor,Displays,Seattle,West,C006,850,170,5
+2025-03-02,Northstar Keyboard,Accessories,Denver,West,C007,560,168,16
+2025-03-14,Crest 27-inch Monitor,Displays,Seattle,West,C008,790,158,4
+2025-03-25,Horizon Dock,Accessories,Boston,East,C009,395,99,10
+2025-04-05,Crest 27-inch Monitor,Displays,Austin,South,C010,920,184,6
+2025-04-17,Northstar Wireless Mouse,Accessories,Denver,West,C011,275,83,14
+2025-04-26,Northstar Keyboard,Accessories,Boston,East,C012,590,177,17

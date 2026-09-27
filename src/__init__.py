@@ -1,0 +1,1 @@
+"""Core data pipeline for AI Data Analyst."""

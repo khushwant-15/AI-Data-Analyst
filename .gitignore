@@ -1,0 +1,37 @@
+# Virtual environments and Python caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test, coverage, and tooling output
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files and local databases
+*.tmp
+*.temp
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.log
+tmp/
+temp/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
